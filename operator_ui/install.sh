@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
+
 owner=smartcontractkit
 repo=operator-ui
 fullRepo=${owner}/${repo}
